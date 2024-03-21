@@ -34,20 +34,27 @@ header {
     display: flex;
     justify-content: center;
     line-height: 2;
-}
-
-.col50 {
-    width: 50%;
-}
-
-.col25 {
-    width: 25%;
+    margin
 }
 
 .col75{
     width: 75%;
     height: 300px;
 }
+
+
+.col50 {
+    width: 50%;
+}
+
+.col35{
+    width: 35%;
+}
+
+.col25 {
+    width: 25%;
+}
+
 
 
 
@@ -101,7 +108,10 @@ header {
     background-color: rgb(228, 106, 212);
 }
 
+.bglightblue{
+    background-color: rgb(74, 74, 238);
+}
 
-.pd20{
-    margin: 20px 0;
+.mg30{
+    margin: 30px 0;
 }
