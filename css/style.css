@@ -120,6 +120,10 @@ header {
     background-color: green;
 }
 
+.bgblack{
+    background-color:black
+}
+
 .mg30{
     margin: 30px 0;
 }
