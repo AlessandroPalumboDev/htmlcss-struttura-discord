@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightskyblue;
+    padding: 20px 0px;
+}
+
+#link{
+    text-align: center;
+
+}
+
+#login{
+    text-align: right;
+    padding-right: 10px;
+}
+
+#logo{
+    text-align: left;
+    padding-left: 10px;
+}
+
+
+/* CLASSI DI LAYOUT */
+.container {
+    max-width: 1200px;
+    justify-content: center;
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    line-height: 2;
+}
+
+.col50 {
+    width: 50%;
+}
+
+.col25 {
+    width: 25%;
+}
+
+
+
+
+
+
+
+/* CLASSI DI UTILITY */
+.bodot{
+    border: 1px dotted black;
+}
+
+.bgred {
+    background-color: red;
+}
+
+.bgorange {
+    background-color: rgb(224, 152, 18);
+}
+
+
+.bgblue {
+    background-color: blue;
+}
+
+.bggold {
+    background-color: gold;
+}
+
+.bgsilver {
+    background-color: silver;
+}
+
+.bglightgrey {
+    background-color: lightgray;
+}
+
+.bgcoral {
+    background-color: coral;
+}
+
+.bgyellow {
+    background-color: rgb(255, 213, 0);
+}
+
+.pd20 {
+    padding: 20px 0;
+}
+
