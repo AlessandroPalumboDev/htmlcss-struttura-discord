@@ -42,6 +42,10 @@ header {
     height: 300px;
 }
 
+.col75big{
+    width: 75%;
+    height: 700px;
+}
 
 .col50 {
     width: 50%;
@@ -104,12 +108,16 @@ header {
     background-color: pink;
 }
 
-.violet{
+.bgviolet{
     background-color: rgb(228, 106, 212);
 }
 
 .bglightblue{
     background-color: rgb(74, 74, 238);
+}
+
+.bggreen{
+    background-color: green;
 }
 
 .mg30{
