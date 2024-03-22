@@ -24,9 +24,8 @@ header {
 
 footer{
     background-color: black;
-    padding-top: 20px;
-    margin-top: 1px;
 }
+
 
 
 /* CLASSI DI LAYOUT */
@@ -51,6 +50,16 @@ footer{
 .foot{
     width: 100%;
     justify-content: space-between;
+    margin-top: 1px;
+}
+
+.top-footer {
+    border-bottom: 1px solid #fff;
+}
+
+.bottom-footer {
+    background-color: black;
+    padding-top: 15px;
 }
 
 .col100{
@@ -168,4 +177,8 @@ footer{
 
 .mg10{
     margin: 10px 0;
+}
+.mg1020{
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
